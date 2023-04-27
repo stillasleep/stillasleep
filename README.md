@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1088862120990490684)](https://discord.com/users/1088862120990490684idleMessage=:still asleep?) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1088862120990490684)](https://discord.com/users/1088862120990490684idleMessage=:stillasleep?) 
 ![Strxangers GitHub stats](https://github-readme-stats.vercel.app/api?username=stillasleep&theme=dark&show_icons=true)
 
 
